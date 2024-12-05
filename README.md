@@ -1,9 +1,9 @@
 # KEYMANIA
-# This interactive Arduino-based game is inspired by the popular Piano Tiles and combines musical rhythm with player reflexes, creating an engaging and dynamic experience. Players must press the corresponding buttons at the right moment, syncing with a sequence of ‘notes’ or blocks scrolling on a screen. Each correct press continues the musical rhythm, while mistakes are penalized, adding a challenging element.
+ This interactive Arduino-based game is inspired by the popular Piano Tiles and combines musical rhythm with player reflexes, creating an engaging and dynamic experience. Players must press the corresponding buttons at the right moment, syncing with a sequence of ‘notes’ or blocks scrolling on a screen. Each correct press continues the musical rhythm, while mistakes are penalized, adding a challenging element.
 
-# The game is designed to test reaction speed and hand-eye coordination, with increasing difficulty as the rhythm becomes faster. The design includes LED display modules or an LCD screen for visualizing the notes, buttons for interaction, and sensors for detecting touches. Sounds are generated in real-time, providing players with auditory feedback and enhancing immersion.
+ The game is designed to test reaction speed and hand-eye coordination, with increasing difficulty as the rhythm becomes faster. The design includes LED display modules or an LCD screen for visualizing the notes, buttons for interaction, and sensors for detecting touches. Sounds are generated in real-time, providing players with auditory feedback and enhancing immersion.
 
-# This project is ideal for music and technology enthusiasts, offering a creative way to combine programming, electronics, and entertainment. Through the flexibility provided by the Arduino platform, the game can be customized with different melodies, difficulty levels, and visual effects to offer a unique experience to each player.
+ This project is ideal for music and technology enthusiasts, offering a creative way to combine programming, electronics, and entertainment. Through the flexibility provided by the Arduino platform, the game can be customized with different melodies, difficulty levels, and visual effects to offer a unique experience to each player.
 
 # General Description of the Game
 An interactive Arduino-based game inspired by Piano Tiles, combining musical rhythm with fast player reflexes.
