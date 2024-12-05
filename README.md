@@ -17,11 +17,12 @@ Testing reaction speed and hand-eye coordination, with progressively increasing 
 # Technical Elements and Components Used
 The game uses an LCD screen or LED matrix to display the notes, physical buttons for interaction, and sensors for detecting correct presses.
 # Components:
--LCD screen for gameplay
--4 push buttons - for input
--7 segment display for score
--lEDs for visual effects
--speaker for sound
+
+- LCD screen for gameplay 
+- 4 push buttons - for input
+- 7 segment display for score
+- lEDs for visual effects
+- speaker for sound
 
 # Auditory and Visual Feedback
 Real-time sounds and visual effects contribute to an engaging game experience, offering instant feedback to the player for each action.
