@@ -24,7 +24,8 @@ Testing reaction speed and hand-eye coordination, with progressively increasing 
 | Amount | Part tipe    | Properties                    | Datasheet                                                                                         | Image |
 |--------|--------------|-------------------------------|---------------------------------------------------------------------------------------------------|-------|
 | 1      | Arduino Nano | Arduino UNO R3 (SKU: A000066) | https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf                                |       |
-| 4      | Push button  | GPIO                          | https://components101.com/switches/push-button                                                    |       |
+| 4      | Push button  | GPIO                          | https://components101.com/switches/push-button                                                    | ![image](https://github.com/user-attachments/assets/73a0746d-e75b-488e-836c-0cb9c39a32af)
+      |
 | 1      | Display lcd  | 128x128 LCS (SPI 1.44 inch)   | https://www.kingtechdisplay.com/uploads/file/1.44-inch-spi-interface-128-128-samll-lcd-module.pdf |![image](https://github.com/user-attachments/assets/fdb70236-dacf-4b1b-b0db-44ce79a8f18c) |
 
 # Technical Elements and Components Used
