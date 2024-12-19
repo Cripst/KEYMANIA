@@ -14,6 +14,10 @@ The player must press the buttons in rhythm with a sequence of blocks or notes s
 # Purpose and Challenges of the Game
 Testing reaction speed and hand-eye coordination, with progressively increasing difficulty as the rhythm becomes faster and more complex.
 
+# Hardware design
+![image](https://github.com/user-attachments/assets/22d1ef9a-ca75-48c9-a719-64b6985976a5)
+
+
 # Technical Elements and Components Used
 The game uses an LCD screen or LED matrix to display the notes, physical buttons for interaction, and sensors for detecting correct presses.
 # Components:
