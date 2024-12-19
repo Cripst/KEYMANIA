@@ -28,6 +28,10 @@ Testing reaction speed and hand-eye coordination, with progressively increasing 
 | 1      | Display lcd  | 128x128 LCS (SPI 1.44 inch)   | https://www.kingtechdisplay.com/uploads/file/1.44-inch-spi-interface-128-128-samll-lcd-module.pdf |![image](https://github.com/user-attachments/assets/fdb70236-dacf-4b1b-b0db-44ce79a8f18c) |
 
 # Technical Elements and Components Used
+
+https://github.com/user-attachments/assets/d179356d-3aaa-4102-8241-c99039d2dd0e
+
+
 The game uses an LCD screen or LED matrix to display the notes, physical buttons for interaction, and sensors for detecting correct presses.
 
 # Components:
