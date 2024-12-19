@@ -17,12 +17,13 @@ Testing reaction speed and hand-eye coordination, with progressively increasing 
 # Hardware design
 ![image](https://github.com/user-attachments/assets/22d1ef9a-ca75-48c9-a719-64b6985976a5)
 
-#Implementare
+# Implementare
 ![image](https://github.com/user-attachments/assets/363a3ff3-9f26-455a-b8ab-6a8f8720d398)
 
 
 # Technical Elements and Components Used
 The game uses an LCD screen or LED matrix to display the notes, physical buttons for interaction, and sensors for detecting correct presses.
+
 # Components:
 
 - LCD screen for gameplay 
