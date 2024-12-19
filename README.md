@@ -19,7 +19,13 @@ Testing reaction speed and hand-eye coordination, with progressively increasing 
 
 # Implementare
 ![image](https://github.com/user-attachments/assets/363a3ff3-9f26-455a-b8ab-6a8f8720d398)
+# Components
 
+| Amount | Part tipe    | Properties                    | Datasheet                                                                                         | Image |
+|--------|--------------|-------------------------------|---------------------------------------------------------------------------------------------------|-------|
+| 1      | Arduino Nano | Arduino UNO R3 (SKU: A000066) | https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf                                |       |
+| 4      | Push button  | GPIO                          | https://components101.com/switches/push-button                                                    |       |
+| 1      | Display lcd  | 128x128 LCS (SPI 1.44 inch)   | https://www.kingtechdisplay.com/uploads/file/1.44-inch-spi-interface-128-128-samll-lcd-module.pdf |       |
 
 # Technical Elements and Components Used
 The game uses an LCD screen or LED matrix to display the notes, physical buttons for interaction, and sensors for detecting correct presses.
@@ -29,8 +35,6 @@ The game uses an LCD screen or LED matrix to display the notes, physical buttons
 - LCD screen for gameplay 
 - 4 push buttons - for input
 - 7 segment display for score
-- lEDs for visual effects
-- speaker for sound
 
 # Auditory and Visual Feedback
 Real-time sounds and visual effects contribute to an engaging game experience, offering instant feedback to the player for each action.
