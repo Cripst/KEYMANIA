@@ -52,6 +52,10 @@ Ideal for music and technology enthusiasts, the game provides a fun way to impro
 
 # General Description
 # Hardware Design
+
+Conected the pins for the display (digital display 13-10). For power I used the 3.3V power output (no need for PWM). 
+The buttons are connected to the arduino via the digital pins 9-6. They also use a 1k pull-up resistor.
+
 # Software Design
 # Results
 # Conclusions
