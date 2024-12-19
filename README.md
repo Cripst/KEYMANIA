@@ -27,6 +27,7 @@ Testing reaction speed and hand-eye coordination, with progressively increasing 
 | 4      | Push button  | GPIO                          | https://components101.com/switches/push-button                                                    |     ![image](https://github.com/user-attachments/assets/04ed3dba-cdb0-4d4a-8420-29e51b0a2d86)
 | 1      | Display lcd  | 128x128 LCS (SPI 1.44 inch)   | https://www.kingtechdisplay.com/uploads/file/1.44-inch-spi-interface-128-128-samll-lcd-module.pdf |![image](https://github.com/user-attachments/assets/fdb70236-dacf-4b1b-b0db-44ce79a8f18c) |
 
+The PINs used are the digital pins 13-7 because they have the functionality that were needed.
 # Technical Elements and Components Used
 
 https://github.com/user-attachments/assets/d179356d-3aaa-4102-8241-c99039d2dd0e
