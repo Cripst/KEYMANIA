@@ -102,21 +102,26 @@ Dynamic Scoring System: The scoring system adapts to the gameplay duration and p
 Custom Menus: Includes dynamic menus for game start, difficulty selection, and high-score viewing, ensuring user-friendly navigation.
 Compact Hardware Design: Efficient use of available pins and resources (e.g., replacing a potentiometer with software-controlled contrast) demonstrates ingenuity in hardware utilization.
 Project Architecture and Functional Interaction
-1. Project Skeleton:
+## 1. Project Skeleton:
 Main Components:
 
 loop(): Coordinates between menus and game logic.
+
 updateStartMenu(): Handles the start menu.
+
 updateHighScoresMenu(): Displays and manages the high scores.
+
 updateDifficultyMenu(): Enables difficulty selection.
+
 handleGameLogic(): Runs the game loop, updating tiles and managing hits/misses.
+
 Subroutines:
 
 drawTile(): Renders tiles on the ST7735 screen.
 playNoteForLane(): Plays a note when a tile is hit.
 calculateScore(): Computes the final score at the end of a game.
 updateScoreDisplay(): Updates the real-time score on the 1602 LCD.
-2. Interaction Between Functionalities:
+## 2. Interaction Between Functionalities:
 Menus and Game Logic:
 The user navigates from the start menu to the difficulty menu, which launches the game based on user selection.
 Tile Management and Input Handling:
@@ -125,12 +130,12 @@ Score Display:
 While the ST7735 handles visual gameplay, the 1602 LCD continuously tracks and updates the score, ensuring dual-display functionality.
 Audio Feedback:
 The tone corresponding to the lane is played whenever a tile is successfully hit.
-3. Validation:
+## 3. Validation:
 Unit Testing:
 Each function (e.g., drawTile(), calculateScore(), updateScoreDisplay()) was tested independently to ensure expected outputs.
 Integrated Testing:
 The entire system was tested with varying difficulty levels, button presses, and edge cases (e.g., multiple misses, simultaneous button presses).
-User Testing:
+## User Testing:
 Gameplay was evaluated by users for responsiveness, clarity of visuals, and overall engagement.
 This documentation provides a comprehensive view of the current implementation, design decisions, and unique features of the project.
 # Results
