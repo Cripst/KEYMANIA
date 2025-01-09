@@ -138,6 +138,13 @@ The entire system was tested with varying difficulty levels, button presses, and
 ## User Testing:
 Gameplay was evaluated by users for responsiveness, clarity of visuals, and overall engagement.
 This documentation provides a comprehensive view of the current implementation, design decisions, and unique features of the project.
+
+## Elements from the lab
+SPI - for the color lcd display
+I2C - for the blue lcd display
+PWM - for the tones
+timers, interupts - gameplay, buttons
+
 # Results
 # Conclusions
 # Journal
