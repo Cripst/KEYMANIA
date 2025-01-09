@@ -145,6 +145,10 @@ I2C - for the blue lcd display
 PWM - for the tones
 timers, interupts - gameplay, buttons
 
+# Final video
+
+https://drive.google.com/file/d/1dvdOAjemdkUliP-h5rhWicAtf7Tkwa7b/view?usp=sharing
+
 # Results
 # Conclusions
 # Journal
